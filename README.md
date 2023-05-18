@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot]((https://github.com/varJonathanR/checkout-page/blob/main/src/assets/checkout-preview.png))
+![screenshot](https://github.com/varJonathanR/checkout-page/blob/main/src/assets/checkout-preview.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 

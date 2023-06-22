@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/0I1DYRAH2a9UXUFP2vk1">
       Solution
     </a>
     <span> | </span>
@@ -38,18 +38,16 @@
 
 ![screenshot](https://github.com/varJonathanR/checkout-page/blob/main/src/assets/checkout-preview.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+- What have I learned/improved?
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+This project provided me with a great opportunity to learn how to effectively utilize ReactJS, its components, and its ability to effectively structure projects into distinct blocks. Although there is always room for further improvement, this has been a significant advancement for me. Furthermore, I have familiarized myself with the process of utilizing and consuming APIs, although there is still more knowledge to be attained in regards to debugging errors and establishing connections between components. I am confident that through continued practice, I will develop even stronger skills.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
 - [SASS](https://sass-lang.com/)
 
 ## Features
@@ -62,7 +60,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+- [React](https://reactjs.org/)
+- [SCSS](https://sass-lang.com/)
 
 ## Contact
 

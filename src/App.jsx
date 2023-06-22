@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react'
 import Header from './components/Header'
 import { Labels, Checkbox, Button } from './components/FormLabel'
 import CountryDropdown from './components/CountryDropdown'
-import { ShoppingCart, Shipping, Total } from './components/ShoppingCart'
+import ShoppingCart from './components/ShoppingCart'
 import Footer from './components/Footer'
 import img0 from './assets/photo1.png'
 import img1 from './assets/photo2.png'
@@ -70,12 +70,7 @@ function App() {
         </div>
         <div className="main-shop">
           <div className="main-shop-card">
-            <ShoppingCart imgSrc={img0} productName={product[1].name} productPrice={product[1].price} productDiscount={product[1].discount} />
-            <ShoppingCart imgSrc={img1} productName={product[2].name} productPrice={product[2].price} productDiscount={product[2].discount} />
-            <hr />
-            <Shipping shipping={product[0].shipping} />
-            <hr />
-            <Total  />
+            <ShoppingCart imgSrc={img0} productName={product[1].name} productPrice={product[1].price} productDiscount={product[1].discount} imgSrc1={img1} productName1={product[2].name} productPrice1={product[2].price} productDiscount1={product[2].discount} shipping={product[0].shipping} />
           </div>
         </div>
       </main>
